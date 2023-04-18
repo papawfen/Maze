@@ -136,5 +136,3 @@ Add cave generation [using a cellular automaton](#generation-using-a-cellular-au
     - Pressing the automatic work button starts rendering iterations of the algorithm with a frequency of 1 step in `N` milliseconds, where the number of milliseconds `N` is set through a special field in the user interface
 - The size of cells in pixels is calculated so that the cave occupies the entire field allotted to it
 - Prepare full coverage of the cave generation module with unit-tests
-
-💡 [Tap here](https://forms.yandex.ru/u/635a9e43068ff01f4d20bfc9/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
